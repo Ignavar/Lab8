@@ -11,3 +11,22 @@ Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp
 
 !ENTRY ch.qos.logback.classic 1 0 2024-11-11 10:14:56.571
 !MESSAGE Logback config file: /home/ignavar17/Documents/Software Construction/ps2/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.core.resources 2 10035 2024-11-11 10:35:54.568
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2024-11-11 11:40:55.252 -----------------------------------------------
+eclipse.buildId=4.33.0.20240905-0613
+java.version=23
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-11 11:40:56.296
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY org.eclipse.core.resources 2 10035 2024-11-11 11:40:59.679
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-11 11:40:59.863
+!MESSAGE Logback config file: /home/ignavar17/Documents/Software Construction/ps2/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
