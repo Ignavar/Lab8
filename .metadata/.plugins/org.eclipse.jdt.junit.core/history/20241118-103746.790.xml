@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="GraphPoetTest" project="ps2" tests="10" started="10" failures="0" errors="9" ignored="0">
+  <testsuite name="poet.GraphPoetTest" time="0.014" displayname="GraphPoetTest" uniqueid="[engine:junit-vintage]/[runner:poet.GraphPoetTest]">
+    <testcase name="testConstructorWithEmptyCorpus" classname="poet.GraphPoetTest" time="0.006" displayname="testConstructorWithEmptyCorpus" uniqueid="[engine:junit-vintage]/[runner:poet.GraphPoetTest]/[test:testConstructorWithEmptyCorpus(poet.GraphPoetTest)]">
+      <error>java.lang.RuntimeException: not implemented
+	at graph.Graph.empty(Graph.java:29)
+	at poet.GraphPoet.&lt;init&gt;(GraphPoet.java:14)
+	at poet.GraphPoetTest.testConstructorWithEmptyCorpus(GraphPoetTest.java:28)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+
+</error>
+    </testcase>
+    <testcase name="testConstructorWithRepetitiveWordsCorpus" classname="poet.GraphPoetTest" time="0.001" displayname="testConstructorWithRepetitiveWordsCorpus" uniqueid="[engine:junit-vintage]/[runner:poet.GraphPoetTest]/[test:testConstructorWithRepetitiveWordsCorpus(poet.GraphPoetTest)]">
+      <error>java.lang.RuntimeException: not implemented
+	at graph.Graph.empty(Graph.java:29)
+	at poet.GraphPoet.&lt;init&gt;(GraphPoet.java:14)
+	at poet.GraphPoetTest.testConstructorWithRepetitiveWordsCorpus(GraphPoetTest.java:42)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+
+</error>
+    </testcase>
+    <testcase name="testPoemWithBridgeWords" classname="poet.GraphPoetTest" time="0.0" displayname="testPoemWithBridgeWords" uniqueid="[engine:junit-vintage]/[runner:poet.GraphPoetTest]/[test:testPoemWithBridgeWords(poet.GraphPoetTest)]">
+      <error>java.lang.RuntimeException: not implemented
+	at graph.Graph.empty(Graph.java:29)
+	at poet.GraphPoet.&lt;init&gt;(GraphPoet.java:14)
+	at poet.GraphPoetTest.testPoemWithBridgeWords(GraphPoetTest.java:58)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+
+</error>
+    </testcase>
+    <testcase name="testPoemWithNonexistentEdges" classname="poet.GraphPoetTest" time="0.0" displayname="testPoemWithNonexistentEdges" uniqueid="[engine:junit-vintage]/[runner:poet.GraphPoetTest]/[test:testPoemWithNonexistentEdges(poet.GraphPoetTest)]">
+      <error>java.lang.RuntimeException: not implemented
+	at graph.Graph.empty(Graph.java:29)
+	at poet.GraphPoet.&lt;init&gt;(GraphPoet.java:14)
+	at poet.GraphPoetTest.testPoemWithNonexistentEdges(GraphPoetTest.java:76)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+
+</error>
+    </testcase>
+    <testcase name="testPoemWithNoBridgeWords" classname="poet.GraphPoetTest" time="0.001" displayname="testPoemWithNoBridgeWords" uniqueid="[engine:junit-vintage]/[runner:poet.GraphPoetTest]/[test:testPoemWithNoBridgeWords(poet.GraphPoetTest)]">
+      <error>java.lang.RuntimeException: not implemented
+	at graph.Graph.empty(Graph.java:29)
+	at poet.GraphPoet.&lt;init&gt;(GraphPoet.java:14)
+	at poet.GraphPoetTest.testPoemWithNoBridgeWords(GraphPoetTest.java:49)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+
+</error>
+    </testcase>
+    <testcase name="testPoemHandlesPunctuation" classname="poet.GraphPoetTest" time="0.001" displayname="testPoemHandlesPunctuation" uniqueid="[engine:junit-vintage]/[runner:poet.GraphPoetTest]/[test:testPoemHandlesPunctuation(poet.GraphPoetTest)]">
+      <error>java.lang.RuntimeException: not implemented
+	at graph.Graph.empty(Graph.java:29)
+	at poet.GraphPoet.&lt;init&gt;(GraphPoet.java:14)
+	at poet.GraphPoetTest.testPoemHandlesPunctuation(GraphPoetTest.java:85)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+
+</error>
+    </testcase>
+    <testcase name="testPoemWithCaseInsensitiveCorpus" classname="poet.GraphPoetTest" time="0.001" displayname="testPoemWithCaseInsensitiveCorpus" uniqueid="[engine:junit-vintage]/[runner:poet.GraphPoetTest]/[test:testPoemWithCaseInsensitiveCorpus(poet.GraphPoetTest)]">
+      <error>java.lang.RuntimeException: not implemented
+	at graph.Graph.empty(Graph.java:29)
+	at poet.GraphPoet.&lt;init&gt;(GraphPoet.java:14)
+	at poet.GraphPoetTest.testPoemWithCaseInsensitiveCorpus(GraphPoetTest.java:67)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+
+</error>
+    </testcase>
+    <testcase name="testAssertionsEnabled" classname="poet.GraphPoetTest" time="0.0" displayname="testAssertionsEnabled" uniqueid="[engine:junit-vintage]/[runner:poet.GraphPoetTest]/[test:testAssertionsEnabled(poet.GraphPoetTest)]"/>
+    <testcase name="testPoemWithComplexCorpus" classname="poet.GraphPoetTest" time="0.001" displayname="testPoemWithComplexCorpus" uniqueid="[engine:junit-vintage]/[runner:poet.GraphPoetTest]/[test:testPoemWithComplexCorpus(poet.GraphPoetTest)]">
+      <error>java.lang.RuntimeException: not implemented
+	at graph.Graph.empty(Graph.java:29)
+	at poet.GraphPoet.&lt;init&gt;(GraphPoet.java:14)
+	at poet.GraphPoetTest.testPoemWithComplexCorpus(GraphPoetTest.java:94)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+
+</error>
+    </testcase>
+    <testcase name="testConstructorWithUniqueWordsCorpus" classname="poet.GraphPoetTest" time="0.001" displayname="testConstructorWithUniqueWordsCorpus" uniqueid="[engine:junit-vintage]/[runner:poet.GraphPoetTest]/[test:testConstructorWithUniqueWordsCorpus(poet.GraphPoetTest)]">
+      <error>java.lang.RuntimeException: not implemented
+	at graph.Graph.empty(Graph.java:29)
+	at poet.GraphPoet.&lt;init&gt;(GraphPoet.java:14)
+	at poet.GraphPoetTest.testConstructorWithUniqueWordsCorpus(GraphPoetTest.java:35)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+
+</error>
+    </testcase>
+  </testsuite>
+</testrun>

@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="ps2" project="ps2" tests="22" started="22" failures="0" errors="21" ignored="0">
+  <testsuite name="poet.GraphPoetTest" time="0.0" displayname="GraphPoetTest" uniqueid="[engine:junit-vintage]/[runner:poet.GraphPoetTest]">
+    <testcase name="testConstructorWithEmptyCorpus" classname="poet.GraphPoetTest" time="0.0" displayname="testConstructorWithEmptyCorpus" uniqueid="[engine:junit-vintage]/[runner:poet.GraphPoetTest]/[test:testConstructorWithEmptyCorpus(poet.GraphPoetTest)]">
+      <error>java.lang.RuntimeException: not implemented
+	at graph.Graph.empty(Graph.java:29)
+	at poet.GraphPoet.&lt;init&gt;(GraphPoet.java:14)
+	at poet.GraphPoetTest.testConstructorWithEmptyCorpus(GraphPoetTest.java:32)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+
+</error>
+    </testcase>
+    <testcase name="testConstructorWithRepetitiveWordsCorpus" classname="poet.GraphPoetTest" time="0.0" displayname="testConstructorWithRepetitiveWordsCorpus" uniqueid="[engine:junit-vintage]/[runner:poet.GraphPoetTest]/[test:testConstructorWithRepetitiveWordsCorpus(poet.GraphPoetTest)]">
+      <error>java.lang.RuntimeException: not implemented
+	at graph.Graph.empty(Graph.java:29)
+	at poet.GraphPoet.&lt;init&gt;(GraphPoet.java:14)
+	at poet.GraphPoetTest.testConstructorWithRepetitiveWordsCorpus(GraphPoetTest.java:46)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+
+</error>
+    </testcase>
+    <testcase name="testPoemWithBridgeWords" classname="poet.GraphPoetTest" time="0.0" displayname="testPoemWithBridgeWords" uniqueid="[engine:junit-vintage]/[runner:poet.GraphPoetTest]/[test:testPoemWithBridgeWords(poet.GraphPoetTest)]">
+      <error>java.lang.RuntimeException: not implemented
+	at graph.Graph.empty(Graph.java:29)
+	at poet.GraphPoet.&lt;init&gt;(GraphPoet.java:14)
+	at poet.GraphPoetTest.testPoemWithBridgeWords(GraphPoetTest.java:62)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+
+</error>
+    </testcase>
+    <testcase name="testPoemWithNonexistentEdges" classname="poet.GraphPoetTest" time="0.0" displayname="testPoemWithNonexistentEdges" uniqueid="[engine:junit-vintage]/[runner:poet.GraphPoetTest]/[test:testPoemWithNonexistentEdges(poet.GraphPoetTest)]">
+      <error>java.lang.RuntimeException: not implemented
+	at graph.Graph.empty(Graph.java:29)
+	at poet.GraphPoet.&lt;init&gt;(GraphPoet.java:14)
+	at poet.GraphPoetTest.testPoemWithNonexistentEdges(GraphPoetTest.java:80)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+
+</error>
+    </testcase>
+    <testcase name="testPoemWithNoBridgeWords" classname="poet.GraphPoetTest" time="0.0" displayname="testPoemWithNoBridgeWords" uniqueid="[engine:junit-vintage]/[runner:poet.GraphPoetTest]/[test:testPoemWithNoBridgeWords(poet.GraphPoetTest)]">
+      <error>java.lang.RuntimeException: not implemented
+	at graph.Graph.empty(Graph.java:29)
+	at poet.GraphPoet.&lt;init&gt;(GraphPoet.java:14)
+	at poet.GraphPoetTest.testPoemWithNoBridgeWords(GraphPoetTest.java:53)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+
+</error>
+    </testcase>
+    <testcase name="testPoemWithCaseInsensitiveCorpus" classname="poet.GraphPoetTest" time="0.0" displayname="testPoemWithCaseInsensitiveCorpus" uniqueid="[engine:junit-vintage]/[runner:poet.GraphPoetTest]/[test:testPoemWithCaseInsensitiveCorpus(poet.GraphPoetTest)]">
+      <error>java.lang.RuntimeException: not implemented
+	at graph.Graph.empty(Graph.java:29)
+	at poet.GraphPoet.&lt;init&gt;(GraphPoet.java:14)
+	at poet.GraphPoetTest.testPoemWithCaseInsensitiveCorpus(GraphPoetTest.java:71)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+
+</error>
+    </testcase>
+    <testcase name="testAssertionsEnabled" classname="poet.GraphPoetTest" time="0.0" displayname="testAssertionsEnabled" uniqueid="[engine:junit-vintage]/[runner:poet.GraphPoetTest]/[test:testAssertionsEnabled(poet.GraphPoetTest)]"/>
+    <testcase name="testConstructorWithUniqueWordsCorpus" classname="poet.GraphPoetTest" time="0.0" displayname="testConstructorWithUniqueWordsCorpus" uniqueid="[engine:junit-vintage]/[runner:poet.GraphPoetTest]/[test:testConstructorWithUniqueWordsCorpus(poet.GraphPoetTest)]">
+      <error>java.lang.RuntimeException: not implemented
+	at graph.Graph.empty(Graph.java:29)
+	at poet.GraphPoet.&lt;init&gt;(GraphPoet.java:14)
+	at poet.GraphPoetTest.testConstructorWithUniqueWordsCorpus(GraphPoetTest.java:39)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+
+</error>
+    </testcase>
+  </testsuite>
+  <testsuite name="graph.ConcreteVerticesGraphTest" time="0.004" displayname="ConcreteVerticesGraphTest" uniqueid="[engine:junit-jupiter]/[class:graph.ConcreteVerticesGraphTest]">
+    <testcase name="testEmptyGraph" classname="graph.ConcreteVerticesGraphTest" time="0.001" displayname="testEmptyGraph()" uniqueid="[engine:junit-jupiter]/[class:graph.ConcreteVerticesGraphTest]/[method:testEmptyGraph()]">
+      <error>java.lang.Error: Unresolved compilation problem: 
+	The declared package "" does not match the expected package "graph"
+
+	at graph.ConcreteVerticesGraphTest.&lt;init&gt;(ConcreteVerticesGraphTest.java:1)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485)
+	at java.base/java.util.Optional.orElseGet(Optional.java:364)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+
+</error>
+    </testcase>
+    <testcase name="testSourcesAndTargets" classname="graph.ConcreteVerticesGraphTest" time="0.001" displayname="testSourcesAndTargets()" uniqueid="[engine:junit-jupiter]/[class:graph.ConcreteVerticesGraphTest]/[method:testSourcesAndTargets()]">
+      <error>java.lang.Error: Unresolved compilation problem: 
+	The declared package "" does not match the expected package "graph"
+
+	at graph.ConcreteVerticesGraphTest.&lt;init&gt;(ConcreteVerticesGraphTest.java:1)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485)
+	at java.base/java.util.Optional.orElseGet(Optional.java:364)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+
+</error>
+    </testcase>
+    <testcase name="testToString" classname="graph.ConcreteVerticesGraphTest" time="0.0" displayname="testToString()" uniqueid="[engine:junit-jupiter]/[class:graph.ConcreteVerticesGraphTest]/[method:testToString()]">
+      <error>java.lang.Error: Unresolved compilation problem: 
+	The declared package "" does not match the expected package "graph"
+
+	at graph.ConcreteVerticesGraphTest.&lt;init&gt;(ConcreteVerticesGraphTest.java:1)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485)
+	at java.base/java.util.Optional.orElseGet(Optional.java:364)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+
+</error>
+    </testcase>
+    <testcase name="testGetOrCreateVertex" classname="graph.ConcreteVerticesGraphTest" time="0.001" displayname="testGetOrCreateVertex()" uniqueid="[engine:junit-jupiter]/[class:graph.ConcreteVerticesGraphTest]/[method:testGetOrCreateVertex()]">
+      <error>java.lang.Error: Unresolved compilation problem: 
+	The declared package "" does not match the expected package "graph"
+
+	at graph.ConcreteVerticesGraphTest.&lt;init&gt;(ConcreteVerticesGraphTest.java:1)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485)
+	at java.base/java.util.Optional.orElseGet(Optional.java:364)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+
+</error>
+    </testcase>
+    <testcase name="testRemoveVertex" classname="graph.ConcreteVerticesGraphTest" time="0.0" displayname="testRemoveVertex()" uniqueid="[engine:junit-jupiter]/[class:graph.ConcreteVerticesGraphTest]/[method:testRemoveVertex()]">
+      <error>java.lang.Error: Unresolved compilation problem: 
+	The declared package "" does not match the expected package "graph"
+
+	at graph.ConcreteVerticesGraphTest.&lt;init&gt;(ConcreteVerticesGraphTest.java:1)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485)
+	at java.base/java.util.Optional.orElseGet(Optional.java:364)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+
+</error>
+    </testcase>
+    <testcase name="testAddVertex" classname="graph.ConcreteVerticesGraphTest" time="0.001" displayname="testAddVertex()" uniqueid="[engine:junit-jupiter]/[class:graph.ConcreteVerticesGraphTest]/[method:testAddVertex()]">
+      <error>java.lang.Error: Unresolved compilation problem: 
+	The declared package "" does not match the expected package "graph"
+
+	at graph.ConcreteVerticesGraphTest.&lt;init&gt;(ConcreteVerticesGraphTest.java:1)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485)
+	at java.base/java.util.Optional.orElseGet(Optional.java:364)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+
+</error>
+    </testcase>
+    <testcase name="testDefensiveCopyOnEdges" classname="graph.ConcreteVerticesGraphTest" time="0.0" displayname="testDefensiveCopyOnEdges()" uniqueid="[engine:junit-jupiter]/[class:graph.ConcreteVerticesGraphTest]/[method:testDefensiveCopyOnEdges()]">
+      <error>java.lang.Error: Unresolved compilation problem: 
+	The declared package "" does not match the expected package "graph"
+
+	at graph.ConcreteVerticesGraphTest.&lt;init&gt;(ConcreteVerticesGraphTest.java:1)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485)
+	at java.base/java.util.Optional.orElseGet(Optional.java:364)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+
+</error>
+    </testcase>
+    <testcase name="testSetEdge" classname="graph.ConcreteVerticesGraphTest" time="0.0" displayname="testSetEdge()" uniqueid="[engine:junit-jupiter]/[class:graph.ConcreteVerticesGraphTest]/[method:testSetEdge()]">
+      <error>java.lang.Error: Unresolved compilation problem: 
+	The declared package "" does not match the expected package "graph"
+
+	at graph.ConcreteVerticesGraphTest.&lt;init&gt;(ConcreteVerticesGraphTest.java:1)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485)
+	at java.base/java.util.Optional.orElseGet(Optional.java:364)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+
+</error>
+    </testcase>
+  </testsuite>
+  <testsuite name="graph.ConcreteEdgesGraphTest" time="0.002" displayname="ConcreteEdgesGraphTest" uniqueid="[engine:junit-jupiter]/[class:graph.ConcreteEdgesGraphTest]">
+    <testcase name="testDefensiveCopyOnVertices" classname="graph.ConcreteEdgesGraphTest" time="0.0" displayname="testDefensiveCopyOnVertices()" uniqueid="[engine:junit-jupiter]/[class:graph.ConcreteEdgesGraphTest]/[method:testDefensiveCopyOnVertices()]">
+      <error>java.lang.Error: Unresolved compilation problem: 
+	The declared package "" does not match the expected package "graph"
+
+	at graph.ConcreteEdgesGraphTest.&lt;init&gt;(ConcreteEdgesGraphTest.java:1)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485)
+	at java.base/java.util.Optional.orElseGet(Optional.java:364)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+
+</error>
+    </testcase>
+    <testcase name="testSourcesAndTargets" classname="graph.ConcreteEdgesGraphTest" time="0.001" displayname="testSourcesAndTargets()" uniqueid="[engine:junit-jupiter]/[class:graph.ConcreteEdgesGraphTest]/[method:testSourcesAndTargets()]">
+      <error>java.lang.Error: Unresolved compilation problem: 
+	The declared package "" does not match the expected package "graph"
+
+	at graph.ConcreteEdgesGraphTest.&lt;init&gt;(ConcreteEdgesGraphTest.java:1)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485)
+	at java.base/java.util.Optional.orElseGet(Optional.java:364)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+
+</error>
+    </testcase>
+    <testcase name="testToString" classname="graph.ConcreteEdgesGraphTest" time="0.0" displayname="testToString()" uniqueid="[engine:junit-jupiter]/[class:graph.ConcreteEdgesGraphTest]/[method:testToString()]">
+      <error>java.lang.Error: Unresolved compilation problem: 
+	The declared package "" does not match the expected package "graph"
+
+	at graph.ConcreteEdgesGraphTest.&lt;init&gt;(ConcreteEdgesGraphTest.java:1)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485)
+	at java.base/java.util.Optional.orElseGet(Optional.java:364)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+
+</error>
+    </testcase>
+    <testcase name="testRemoveVertex" classname="graph.ConcreteEdgesGraphTest" time="0.001" displayname="testRemoveVertex()" uniqueid="[engine:junit-jupiter]/[class:graph.ConcreteEdgesGraphTest]/[method:testRemoveVertex()]">
+      <error>java.lang.Error: Unresolved compilation problem: 
+	The declared package "" does not match the expected package "graph"
+
+	at graph.ConcreteEdgesGraphTest.&lt;init&gt;(ConcreteEdgesGraphTest.java:1)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485)
+	at java.base/java.util.Optional.orElseGet(Optional.java:364)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+
+</error>
+    </testcase>
+    <testcase name="testAddVertex" classname="graph.ConcreteEdgesGraphTest" time="0.0" displayname="testAddVertex()" uniqueid="[engine:junit-jupiter]/[class:graph.ConcreteEdgesGraphTest]/[method:testAddVertex()]">
+      <error>java.lang.Error: Unresolved compilation problem: 
+	The declared package "" does not match the expected package "graph"
+
+	at graph.ConcreteEdgesGraphTest.&lt;init&gt;(ConcreteEdgesGraphTest.java:1)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485)
+	at java.base/java.util.Optional.orElseGet(Optional.java:364)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+
+</error>
+    </testcase>
+    <testcase name="testSetEdge" classname="graph.ConcreteEdgesGraphTest" time="0.0" displayname="testSetEdge()" uniqueid="[engine:junit-jupiter]/[class:graph.ConcreteEdgesGraphTest]/[method:testSetEdge()]">
+      <error>java.lang.Error: Unresolved compilation problem: 
+	The declared package "" does not match the expected package "graph"
+
+	at graph.ConcreteEdgesGraphTest.&lt;init&gt;(ConcreteEdgesGraphTest.java:1)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:501)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:485)
+	at java.base/java.util.Optional.orElseGet(Optional.java:364)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+
+</error>
+    </testcase>
+  </testsuite>
+</testrun>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="GraphPoetTest" project="ps2" tests="8" started="8" failures="0" errors="7" ignored="0">
+  <testsuite name="poet.GraphPoetTest" time="0.019" displayname="GraphPoetTest" uniqueid="[engine:junit-vintage]/[runner:poet.GraphPoetTest]">
+    <testcase name="testConstructorWithEmptyCorpus" classname="poet.GraphPoetTest" time="0.012" displayname="testConstructorWithEmptyCorpus" uniqueid="[engine:junit-vintage]/[runner:poet.GraphPoetTest]/[test:testConstructorWithEmptyCorpus(poet.GraphPoetTest)]">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	Graph cannot be resolved to a type
+	Graph cannot be resolved
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+
+	at poet.GraphPoet.&lt;init&gt;(GraphPoet.java:12)
+	at poet.GraphPoetTest.testConstructorWithEmptyCorpus(GraphPoetTest.java:28)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+
+</error>
+    </testcase>
+    <testcase name="testConstructorWithRepetitiveWordsCorpus" classname="poet.GraphPoetTest" time="0.001" displayname="testConstructorWithRepetitiveWordsCorpus" uniqueid="[engine:junit-vintage]/[runner:poet.GraphPoetTest]/[test:testConstructorWithRepetitiveWordsCorpus(poet.GraphPoetTest)]">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	Graph cannot be resolved to a type
+	Graph cannot be resolved
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+
+	at poet.GraphPoet.&lt;init&gt;(GraphPoet.java:12)
+	at poet.GraphPoetTest.testConstructorWithRepetitiveWordsCorpus(GraphPoetTest.java:42)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+
+</error>
+    </testcase>
+    <testcase name="testPoemWithBridgeWords" classname="poet.GraphPoetTest" time="0.001" displayname="testPoemWithBridgeWords" uniqueid="[engine:junit-vintage]/[runner:poet.GraphPoetTest]/[test:testPoemWithBridgeWords(poet.GraphPoetTest)]">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	Graph cannot be resolved to a type
+	Graph cannot be resolved
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+
+	at poet.GraphPoet.&lt;init&gt;(GraphPoet.java:12)
+	at poet.GraphPoetTest.testPoemWithBridgeWords(GraphPoetTest.java:58)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+
+</error>
+    </testcase>
+    <testcase name="testPoemWithNonexistentEdges" classname="poet.GraphPoetTest" time="0.001" displayname="testPoemWithNonexistentEdges" uniqueid="[engine:junit-vintage]/[runner:poet.GraphPoetTest]/[test:testPoemWithNonexistentEdges(poet.GraphPoetTest)]">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	Graph cannot be resolved to a type
+	Graph cannot be resolved
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+
+	at poet.GraphPoet.&lt;init&gt;(GraphPoet.java:12)
+	at poet.GraphPoetTest.testPoemWithNonexistentEdges(GraphPoetTest.java:76)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+
+</error>
+    </testcase>
+    <testcase name="testPoemWithNoBridgeWords" classname="poet.GraphPoetTest" time="0.001" displayname="testPoemWithNoBridgeWords" uniqueid="[engine:junit-vintage]/[runner:poet.GraphPoetTest]/[test:testPoemWithNoBridgeWords(poet.GraphPoetTest)]">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	Graph cannot be resolved to a type
+	Graph cannot be resolved
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+
+	at poet.GraphPoet.&lt;init&gt;(GraphPoet.java:12)
+	at poet.GraphPoetTest.testPoemWithNoBridgeWords(GraphPoetTest.java:49)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+
+</error>
+    </testcase>
+    <testcase name="testPoemWithCaseInsensitiveCorpus" classname="poet.GraphPoetTest" time="0.001" displayname="testPoemWithCaseInsensitiveCorpus" uniqueid="[engine:junit-vintage]/[runner:poet.GraphPoetTest]/[test:testPoemWithCaseInsensitiveCorpus(poet.GraphPoetTest)]">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	Graph cannot be resolved to a type
+	Graph cannot be resolved
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+
+	at poet.GraphPoet.&lt;init&gt;(GraphPoet.java:12)
+	at poet.GraphPoetTest.testPoemWithCaseInsensitiveCorpus(GraphPoetTest.java:67)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+
+</error>
+    </testcase>
+    <testcase name="testAssertionsEnabled" classname="poet.GraphPoetTest" time="0.001" displayname="testAssertionsEnabled" uniqueid="[engine:junit-vintage]/[runner:poet.GraphPoetTest]/[test:testAssertionsEnabled(poet.GraphPoetTest)]"/>
+    <testcase name="testConstructorWithUniqueWordsCorpus" classname="poet.GraphPoetTest" time="0.0" displayname="testConstructorWithUniqueWordsCorpus" uniqueid="[engine:junit-vintage]/[runner:poet.GraphPoetTest]/[test:testConstructorWithUniqueWordsCorpus(poet.GraphPoetTest)]">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	Graph cannot be resolved to a type
+	Graph cannot be resolved
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+	Graph cannot be resolved to a type
+
+	at poet.GraphPoet.&lt;init&gt;(GraphPoet.java:12)
+	at poet.GraphPoetTest.testConstructorWithUniqueWordsCorpus(GraphPoetTest.java:35)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+
+</error>
+    </testcase>
+  </testsuite>
+</testrun>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="GraphPoetTest.createTempFile(String)" project="ps2" tests="1" started="1" failures="0" errors="1" ignored="0">
+  <testsuite name="poet.GraphPoetTest" time="0.002" displayname="GraphPoetTest" uniqueid="[engine:junit-vintage]/[runner:poet.GraphPoetTest]">
+    <testcase name="org.junit.runner.manipulation.Filter" classname="org.junit.runner.manipulation.Filter" time="0.002" displayname="initializationError" uniqueid="[engine:junit-vintage]/[runner:poet.GraphPoetTest]/[test:initializationError(org.junit.runner.manipulation.Filter)]">
+      <error>java.lang.Exception: No tests found matching Method createTempFile(poet.GraphPoetTest) from org.junit.vintage.engine.descriptor.RunnerRequest@f8c1ddd
+
+</error>
+    </testcase>
+  </testsuite>
+</testrun>
